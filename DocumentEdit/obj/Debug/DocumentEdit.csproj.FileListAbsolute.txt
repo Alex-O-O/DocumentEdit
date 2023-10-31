@@ -1,0 +1,9 @@
+E:\个人文件\C#\DocumentEdit\DocumentEdit\DocumentEdit\obj\Debug\DocumentEdit.Form1.resources
+E:\个人文件\C#\DocumentEdit\DocumentEdit\DocumentEdit\obj\Debug\DocumentEdit.Properties.Resources.resources
+E:\个人文件\C#\DocumentEdit\DocumentEdit\DocumentEdit\obj\Debug\DocumentEdit.csproj.GenerateResource.cache
+E:\个人文件\C#\DocumentEdit\DocumentEdit\DocumentEdit\obj\Debug\DocumentEdit.csproj.CoreCompileInputs.cache
+E:\个人文件\C#\DocumentEdit\DocumentEdit\DocumentEdit\bin\Debug\DocumentEdit.exe.config
+E:\个人文件\C#\DocumentEdit\DocumentEdit\DocumentEdit\bin\Debug\DocumentEdit.exe
+E:\个人文件\C#\DocumentEdit\DocumentEdit\DocumentEdit\bin\Debug\DocumentEdit.pdb
+E:\个人文件\C#\DocumentEdit\DocumentEdit\DocumentEdit\obj\Debug\DocumentEdit.exe
+E:\个人文件\C#\DocumentEdit\DocumentEdit\DocumentEdit\obj\Debug\DocumentEdit.pdb
